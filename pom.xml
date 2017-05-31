@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>test.springboot.openshift</groupId>
-	<artifactId>openshift_demo_springboot</artifactId>
+	<artifactId>firstappspringbootdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>openshift_demo_springboot</name>
+	<name>firstappspringbootdemo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
